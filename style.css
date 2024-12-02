@@ -7,8 +7,9 @@
 }
 
 /* Body Styling */
+/* Body Styling */
 body {
-  background-color: #001e4d;
+  background: linear-gradient(135deg, #1d2671, #c33764);
   height: 100vh;
   display: flex;
   align-items: center;
