@@ -68,7 +68,7 @@ quiz-app/
 
 🖥️ Live Demo
 
-Link to Live Demo (Replace with your deployed link, e.g., GitHub Pages or Netlify)
+Link to Live Demo (https://quizappjsprojectrfa.netlify.app/)
 
 🤝 Contributing
 
@@ -84,6 +84,6 @@ This project is licensed under the MIT License.
 Feel free to reach out if you have any questions or feedback!
 	•	Author: Abdullah Nazmus-Sakib
 	•	GitHub: AbdullahRFA
-	•	LinkedIn: Your LinkedIn Profile (Replace with your LinkedIn link)
+	•	LinkedIn: Your LinkedIn Profile (https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261/)
 
 Happy coding! 😊
